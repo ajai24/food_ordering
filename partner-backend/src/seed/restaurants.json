@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Urban Spice Kitchen",
+    "cuisine": "Indian",
+    "rating": 4.6,
+    "imageUrl": "https://images.unsplash.com/photo-1555992336-cbf1b5ee60cb",
+    "location": {
+      "address": "245 Curry Avenue",
+      "city": "Seattle",
+      "postalCode": "98101"
+    },
+    "menu": [
+      { "name": "Butter Chicken", "description": "Creamy tomato gravy with tender chicken.", "price": 14.5, "isAvailable": true },
+      { "name": "Paneer Tikka", "description": "Char-grilled cottage cheese with peppers.", "price": 12.0, "isAvailable": true },
+      { "name": "Garlic Naan", "description": "Stone-fired bread brushed with garlic butter.", "price": 3.5, "isAvailable": true },
+      { "name": "Masala Chai", "description": "Slow-brewed spiced tea with milk.", "price": 4.0, "isAvailable": true }
+    ]
+  },
+  {
+    "name": "Coastal Catch",
+    "cuisine": "Seafood",
+    "rating": 4.8,
+    "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+    "location": {
+      "address": "88 Marina Drive",
+      "city": "San Francisco",
+      "postalCode": "94109"
+    },
+    "menu": [
+      { "name": "Seared Salmon", "description": "Wild-caught salmon with citrus beurre blanc.", "price": 24.0, "isAvailable": true },
+      { "name": "Lobster Roll", "description": "Toasted brioche stuffed with buttered lobster.", "price": 19.5, "isAvailable": true },
+      { "name": "Clam Chowder", "description": "Creamy chowder with smoked bacon.", "price": 9.0, "isAvailable": true },
+      { "name": "Key Lime Tart", "description": "Tangy citrus curd with toasted meringue.", "price": 7.5, "isAvailable": true }
+    ]
+  },
+  {
+    "name": "Noodle House 88",
+    "cuisine": "Pan-Asian",
+    "rating": 4.5,
+    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19",
+    "location": {
+      "address": "731 Market Street",
+      "city": "New York",
+      "postalCode": "10012"
+    },
+    "menu": [
+      { "name": "Dan Dan Noodles", "description": "Szechuan chili oil, minced pork, pickled greens.", "price": 13.0, "isAvailable": true },
+      { "name": "Thai Basil Chicken", "description": "Wok-tossed chicken with Thai holy basil.", "price": 12.5, "isAvailable": true },
+      { "name": "Bao Buns", "description": "Soft buns filled with hoisin pork belly.", "price": 11.0, "isAvailable": true },
+      { "name": "Matcha Tiramisu", "description": "Green tea mascarpone layered dessert.", "price": 6.5, "isAvailable": true }
+    ]
+  },
+  {
+    "name": "Green Garden Bowls",
+    "cuisine": "Vegan",
+    "rating": 4.7,
+    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c",
+    "location": {
+      "address": "412 Evergreen Terrace",
+      "city": "Austin",
+      "postalCode": "73301"
+    },
+    "menu": [
+      { "name": "Mediterranean Power Bowl", "description": "Quinoa, roasted chickpeas, harissa dressing.", "price": 11.5, "isAvailable": true },
+      { "name": "Jackfruit Tacos", "description": "Smoky pulled jackfruit, pickled onions.", "price": 10.0, "isAvailable": true },
+      { "name": "Rainbow Spring Rolls", "description": "Fresh vegetable rolls with peanut sauce.", "price": 9.0, "isAvailable": true },
+      { "name": "Coconut Chia Pudding", "description": "Tropical fruit, toasted coconut flakes.", "price": 5.5, "isAvailable": true }
+    ]
+  },
+  {
+    "name": "Brick Oven Piazza",
+    "cuisine": "Italian",
+    "rating": 4.4,
+    "imageUrl": "https://images.unsplash.com/photo-1542282811-943ef1a977c3",
+    "location": {
+      "address": "1590 Roma Lane",
+      "city": "Chicago",
+      "postalCode": "60611"
+    },
+    "menu": [
+      { "name": "Truffle Mushroom Pizza", "description": "Wild mushrooms, taleggio, truffle oil.", "price": 16.0, "isAvailable": true },
+      { "name": "Heirloom Tomato Burrata", "description": "Basil pesto, aged balsamic.", "price": 12.0, "isAvailable": true },
+      { "name": "Charred Broccolini", "description": "Lemon ricotta, toasted almonds.", "price": 8.5, "isAvailable": true },
+      { "name": "Affogato", "description": "Vanilla gelato drowned in espresso.", "price": 5.0, "isAvailable": true }
+    ]
+  },
+  {
+    "name": "Smoke & Ember BBQ",
+    "cuisine": "Barbecue",
+    "rating": 4.9,
+    "imageUrl": "https://images.unsplash.com/photo-1546069901-5ef707c2bb58",
+    "location": {
+      "address": "54 Hickory Road",
+      "city": "Nashville",
+      "postalCode": "37203"
+    },
+    "menu": [
+      { "name": "Smoked Brisket", "description": "14-hour smoked prime brisket with jus.", "price": 18.0, "isAvailable": true },
+      { "name": "Burnt End Bites", "description": "Sweet heat glazed brisket cubes.", "price": 11.0, "isAvailable": true },
+      { "name": "Pit Beans", "description": "Slow cooked with molasses and bacon.", "price": 4.5, "isAvailable": true },
+      { "name": "Banana Pudding", "description": "Vanilla wafers, whipped cream, caramel.", "price": 5.5, "isAvailable": true }
+    ]
+  },
+  {
+    "name": "Sunrise Diner",
+    "cuisine": "Breakfast & Brunch",
+    "rating": 4.3,
+    "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+    "location": {
+      "address": "920 Maple Street",
+      "city": "Portland",
+      "postalCode": "97205"
+    },
+    "menu": [
+      { "name": "Buttermilk Pancakes", "description": "Stacked with maple syrup and berries.", "price": 9.5, "isAvailable": true },
+      { "name": "Avocado Smash Toast", "description": "Poached egg, chili flakes, micro greens.", "price": 11.0, "isAvailable": true },
+      { "name": "Breakfast Hash", "description": "Sweet potatoes, chorizo, sunny side eggs.", "price": 13.0, "isAvailable": true },
+      { "name": "Cold Brew Tonic", "description": "Citrus tonic water with cold brew concentrate.", "price": 4.5, "isAvailable": true }
+    ]
+  },
+  {
+    "name": "Sushi Atelier",
+    "cuisine": "Japanese",
+    "rating": 4.8,
+    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754",
+    "location": {
+      "address": "66 Sakura Lane",
+      "city": "Los Angeles",
+      "postalCode": "90012"
+    },
+    "menu": [
+      { "name": "Omakase Nigiri", "description": "Chef's curated selection of seasonal fish.", "price": 32.0, "isAvailable": true },
+      { "name": "Spicy Tuna Crispy Rice", "description": "Ahi tuna, yuzu mayo, jalapeño.", "price": 15.0, "isAvailable": true },
+      { "name": "Miso Glazed Black Cod", "description": "Broiled Alaskan cod with sweet miso glaze.", "price": 26.0, "isAvailable": true },
+      { "name": "Yuzu Cheesecake", "description": "Velvety Japanese-style cheesecake.", "price": 7.0, "isAvailable": true }
+    ]
+  },
+  {
+    "name": "Taco Lucha",
+    "cuisine": "Mexican Street Food",
+    "rating": 4.6,
+    "imageUrl": "https://images.unsplash.com/photo-1612874742237-6526221588e3",
+    "location": {
+      "address": "37 Fiesta Boulevard",
+      "city": "Phoenix",
+      "postalCode": "85004"
+    },
+    "menu": [
+      { "name": "Birria Quesatacos", "description": "Slow braised beef with consomé dip.", "price": 12.5, "isAvailable": true },
+      { "name": "Elote Street Corn", "description": "Cotija, chili, lime crema.", "price": 6.0, "isAvailable": true },
+      { "name": "Carne Asada Fries", "description": "Loaded with guacamole, pico, queso.", "price": 11.0, "isAvailable": true },
+      { "name": "Horchata Latte", "description": "Cinnamon rice milk with espresso shot.", "price": 4.0, "isAvailable": true }
+    ]
+  }
+]
